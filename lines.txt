@@ -1,0 +1,25 @@
+2025-02-18T21:39:58.931035Z	Cloning repository...
+2025-02-18T21:40:00.477824Z	From https://github.com/IDFS-BYTE/idle-dice
+2025-02-18T21:40:00.478631Z	 * branch            036d096645c79a7a91064939d9a073543f0ae818 -> FETCH_HEAD
+2025-02-18T21:40:00.478801Z	
+2025-02-18T21:40:00.739333Z	HEAD is now at 036d096 Update index.html
+2025-02-18T21:40:00.74009Z	
+2025-02-18T21:40:00.832838Z	
+2025-02-18T21:40:00.833463Z	Using v2 root directory strategy
+2025-02-18T21:40:00.85653Z	Success: Finished cloning repository files
+2025-02-18T21:40:04.275733Z	Checking for configuration in a Wrangler configuration file (BETA)
+2025-02-18T21:40:04.276466Z	
+2025-02-18T21:40:05.398554Z	No wrangler.toml file found. Continuing.
+2025-02-18T21:40:05.398907Z	No build command specified. Skipping build step.
+2025-02-18T21:40:05.399472Z	Note: No functions dir at /functions found. Skipping.
+2025-02-18T21:40:05.399596Z	Validating asset output directory
+2025-02-18T21:40:08.451137Z	Deploying your site to Cloudflare's global network...
+2025-02-18T21:40:11.166102Z	Uploading... (0/410)
+2025-02-18T21:40:14.129694Z	Uploading... (136/410)
+2025-02-18T21:40:14.281116Z	Uploading... (273/410)
+2025-02-18T21:40:15.005248Z	Uploading... (410/410)
+2025-02-18T21:40:15.005532Z	✨ Success! Uploaded 410 files (4.44 sec)
+2025-02-18T21:40:15.005912Z	
+2025-02-18T21:40:15.323465Z	✨ Upload complete!
+2025-02-18T21:40:18.550519Z	Success: Assets published!
+2025-02-18T21:40:19.836242Z	Success: Your site was deployed!
